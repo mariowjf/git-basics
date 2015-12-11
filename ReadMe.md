@@ -30,8 +30,8 @@ Dictator API is a *lightweight cloud resource management* service similar to its
   * [Update an Instance Snapshot](#34-update-an-instance-snapshot)
   * [Remove an Instance Snapshot](#35-remove-an-instance-snapshot)
   * [Revert an Instance Snapshot](#36-revert-an-instance-snapshot)
-* [Instance Guest Operation APIs](#4-Instance-Guest-Operation-APIs)
-  * [Check file existence on instance](#41-Check-file-existence-on-instance)
+* [Instance Guest Operation APIs](#4-instance-guest-operation-apis)
+  * [Check file existence on instance](#41-check-file-existence-on-instance)
 
 ## 1 Image APIs
 
